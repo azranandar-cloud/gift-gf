@@ -1,0 +1,30 @@
+<div class="timeline-container">
+    <div class="tape top-center" style="left: 45%;"></div>
+    <h3 class="timeline-title">Cerita Kita ✨</h3>
+    
+    <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+            <strong>Januari 2024</strong>
+            <p>Pertama kali kita kenalan (Masih malu-malu banget!)</p>
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+            <strong>Juni 2024</strong>
+            <p>Momen pertama kali kita jalan bareng ke bioskop.</p>
+        </div>
+    </div>
+
+    <div class="timeline-item">
+        <div class="dot"></div>
+        <div class="content">
+            <strong>Sekarang</strong>
+            <p>Masih sayang banget sama kamu! ❤️</p>
+        </div>
+    </div>
+</div>
+
+<div id="hearts-container"></div>
